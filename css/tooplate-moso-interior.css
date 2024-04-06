@@ -1120,7 +1120,7 @@ strong {
     justify-content: center;
   }
 }
-.btn {
+.btn12 {
   cursor: pointer;
   display: inline-block;
   color: var(--p-bg-color);
