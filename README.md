@@ -2,7 +2,7 @@
 
 Tools & Technology
 
-Embedded C/C++, Flutter, Dart, Azure
+Embedded C/C++, Flutter, Dart, Azure, HTML5, CSS3, JS
 
 - Designed circuits for electronic devices on Wokwi Platform.
 - Programmed circuits to connect with Azure virtual instances using MQTT protocol.
@@ -22,5 +22,13 @@ https://github.com/DhruvMaradiya/smart-home/
 # Android App Link
 
 https://github.com/pateladiti0401/HomeAutomation
+
+# demo video 
+
+
+
+https://github.com/user-attachments/assets/0b2ffed0-310b-48ef-9312-df35d5697c75
+
+
 
 
