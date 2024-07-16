@@ -21,4 +21,6 @@ https://github.com/DhruvMaradiya/smart-home/
 
 # Android App Link
 
+https://github.com/pateladiti0401/HomeAutomation
+
 
