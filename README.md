@@ -30,5 +30,8 @@ https://github.com/pateladiti0401/HomeAutomation
 https://github.com/user-attachments/assets/0b2ffed0-310b-48ef-9312-df35d5697c75
 
 
+For more information : https://winnovate-systems.github.io/smart-home/index.html
+
+
 
 
